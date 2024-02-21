@@ -2,7 +2,7 @@ Steps:
 
 1. Please open page - github - https://github.com/
 2. create account 
-3. when we have our account created please see - attachment 1 - Right corner - icon with your name -  Button: Your repository
+3. when we have our account created please see - Right corner - icon with your name -  Button: Your repository
    ![Alt text](1.png)
 4. repositories and button NEW (green)- ![Alt text](2%20new.png)
 5. attachment 3 - you need write:
