@@ -4,6 +4,7 @@ Steps:
 3. create account 
 4. when we have our account created please see - attachment 1 - Right corner - icon with your name -  Button: Your repository
    (![Alt text](https://github.com/moniqklimek/mentoring/edit/main/1.png)
+   ![Alt text](1.png)
 6. repositories and button NEW (green)- attachment 2
 7. attachment 3 - you need write:
    - name for your repository - you can put whatever you need , but please be aware that this name will be visible in link - so i propose something easy to remember and short :)
